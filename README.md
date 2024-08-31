@@ -13,7 +13,7 @@ javascript:(()%3D%3E%7B!function(e)%7Bconst%20t%3Ddocument.createElement(%22text
 2. On a X thread, go to the bottom of the thread, and click on the bookmarklet. That's all: all the tweets are in the clipboard. 
 
 
-**Important: this bookmarklet only copy the tweets already displayed, so *before* using it, go to the bottom of the thread!**
+**Important: this bookmarklet only copy the tweets already displayed, so *before* using it, go to the bottom of the thread (it is sometimes necessary to copy the thread in multiple times)!**
 
 
 ## Code
